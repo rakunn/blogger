@@ -1,3 +1,5 @@
 Blogger project built on Rails.
 
-Simple website with PostgreSQL, simple CSS and blog engine.
+Simple website with PostgreSQL, CSS and blog engine.
+
+Based on Jumpstart tutorial.
